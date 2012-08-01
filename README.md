@@ -1,0 +1,4 @@
+AccelDem
+========
+
+Demo for accelerometer
